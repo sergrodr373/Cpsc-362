@@ -1,31 +1,33 @@
-CPSC362-Group2: Task Management System
+# CPSC362-Group2 : Task Management System
+## Group Members:
+### Poleth Acosta, Jason Chieu, Brandy Nguyen, Vinh Nguyen
+# Requirements
+- Working front-end
+- 
+-
+## Software Requirement Specifications
+- Home screen and then three columns - to do, doing, done
 
-Group Members:
-
-Derek Phung,Kalvin Sevillano,Joseph Bobby,Sergio Rodriguez
-
-Requirements
-
-Software Requirement Specifications
-
-Home screen and then three columns - to do, doing, done
 1.1 to do
+- Needs to have create task
+- 
 
-Needs to have create task
 1.2 doing
 
 1.3 done
 
-Scrum update 16th February
-
+## Scrum update 16th February
 -Who is doing what?
 
-Derek Phung,Kalvin Sevillano,Joseph Bobby,Sergio Rodriguez readME.md, create github repo, create business flowchart
+Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: readME.md, create github repo, create business flowchart
 
 -What did you discuss in today's meeting?
 
-Derek Phung,Kalvin Sevillano,Joseph Bobby,Sergio Rodriguez: Went over project, made discord, figure out what everyone is doing
+Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Went over project, made discord, figure out what everyone is doing
 
 -What's for next?
 
-Derek Phung,Kalvin Sevillano,Joseph Bobby,Sergio Rodriguez, Start the frontend
+Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Start the frontend 
+![Business Flowchart](image.png)
+## Change after discussion
+- 
