@@ -30,4 +30,14 @@ Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Went over project, made d
 Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Start the frontend 
 ![Business Flowchart](image.png)
 ## Change after discussion
+
+
+
+
+
+
+
+
+
+
 - 
